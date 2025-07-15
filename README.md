@@ -1,10 +1,8 @@
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5vT7D89VG5WUxG02ntLjaN7NrQFDuXCNtWg&s
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="100"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FiY3V1anZ0dHh1MDZxcTc2bXlid2NwdG5jNGgwb2x0bTQ5YTlkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="100"/>
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/tu_linkedin/">
+    <a href="https://www.linkedin.com/in/giordano-castilla-garc%C3%ADa/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:tuemail@ejemplo.com">
@@ -18,35 +16,42 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5vT7D89VG5WUxG02ntLjaN7Nr
   <img src="https://komarev.com/ghpvc/?username=tuusuario&style=flat-square&color=blue" alt=""/>
 
   <h1>
-    Hi there
+    Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
 <div align="center">
-  <img src="https://rectitudecs.com/assets/images/security-solutions/soc.gif" width="100"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXoxcjM1YXg4OWdzMHI4ZnBhaGoyNnZmdGR5c2Z0dHpzMzJ5c25ueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif"/>
 </div>
 
 ---
 
-### 👨‍💻 Sobre mí:
+### 👨‍💻 About me:
 
-Soy un profesional en formación en **ciberseguridad**, con base en **administración de sistemas y redes**. Me apasiona proteger a personas y organizaciones de amenazas digitales.  
+I am an aspiring **cybersecurity professional** with a background in **systems administration** and a strong interest in **ethical hacking** and **network security**.  
+I value protecting people and organizations from cyber threats, and I am committed to learning and applying cybersecurity tools responsibly and ethically.
 
-- 🧠 Siempre dispuesto a **aprender** cosas nuevas  
-- 🐧 Familiarizado con **entornos Linux**  
-- 🛠️ Actualmente practicando con herramientas como `Hydra`, `Nmap` y más  
-- 📚 Completando el [Google Cybersecurity Certificate]  
-- 🎯 Buscando mi primera experiencia profesional en el sector
+- 🧠 Always eager to **learn new things**  
+- 🐧 Comfortable working with **Linux environments**  
+- 🛠️ Currently practicing with tools like `Hydra`, `Nmap`, and more  
 
 ---
 
-### ⚔️ Mis fortalezas:
+### ⚔️ Strengths I'm Building:
 
-- 🔐 Enfoque ético en el uso de herramientas de hacking
-- 🛠️ Curiosidad técnica por los sistemas, redes y vulnerabilidades
-- 🧰 Capacidad para resolver problemas y documentar cada paso
-- 📋 Orientado a resultados con una mentalidad profesional
+- 🧠 **Problem-solving** and analytical thinking  
+- 🧰 Experience with **Linux** systems.
+- 🕵️‍♂️ Practical knowledge of cybersecurity tools and techniques, including network scanning and vulnerability assessment
+- 📚 Willingness to **learn continuously** and grow in a professional setting
+
+---
+
+### 💡 Values I Stand By:
+
+- 🛡️ Protecting people and organizations from cyber threats  
+- ⚖️ Acting ethically and legally in every cybersecurity engagement  
+- 🔒 Contributing to a safer digital world
 
 ---
 
@@ -54,11 +59,11 @@ Soy un profesional en formación en **ciberseguridad**, con base en **administra
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/ios/50/000000/nmap.png" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-hacking-computer-science-flaticons-lineal-color-flat-icons.png" title="Ethical Hacking" alt="Hacking" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=115558&format=png&color=000000" title="Hydra" alt="Ethical Hacking" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" title="Wireshark" alt="Wireshark" width="40" height="40"/>
 </div>
 
 ---
@@ -70,14 +75,3 @@ Soy un profesional en formación en **ciberseguridad**, con base en **administra
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### 🚧 Próximos pasos:
-
-📁 Estoy preparando proyectos prácticos como:  
-- Escaneos de red documentados con `Nmap`  
-- Automatización de tareas con `Bash`  
-- Pruebas de contraseñas con `Hydra` en entornos controlados  
-- Reportes de vulnerabilidades locales (máquinas virtuales o CTF)
-
-¡Este portfolio crecerá contigo! 🚀
-
