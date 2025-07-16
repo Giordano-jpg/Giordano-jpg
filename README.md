@@ -55,7 +55,7 @@ I value protecting people and organizations from cyber threats, and I am committ
 
 ---
 
-### 🛠️ Tecnologías y herramientas:
+### 🛠️ Technologies and Tools:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
@@ -68,7 +68,7 @@ I value protecting people and organizations from cyber threats, and I am committ
 
 ---
 
-### 🔥 Mis estadísticas:
+### 🔥 My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tuusuario&theme=dark&background=000000)](https://git.io/streak-stats)
 
