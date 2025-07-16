@@ -5,10 +5,10 @@
     <a href="https://www.linkedin.com/in/giordano-castilla-garc%C3%ADa/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:tuemail@ejemplo.com">
+    <!--a href="mailto:tuemail@ejemplo.com"-->
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
-    <a href="https://github.com/tuusuario">
+    <!--a href="https://github.com/tuusuario"-->
       <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
   </div>
